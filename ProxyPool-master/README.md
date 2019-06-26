@@ -110,9 +110,3 @@ def get_proxy():
   > 工具箱
 
 * setting.py
-
-  > 设置
-
-## 项目参考
-
-[https://github.com/WiseDoge/ProxyPool](https://github.com/WiseDoge/ProxyPool)
